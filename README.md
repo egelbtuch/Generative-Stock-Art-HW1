@@ -8,9 +8,9 @@ During the pandemic I used my extra time to learn about the stock market. After 
 * 9V Lithium Ion Battery Pack
 * External Keyboard, Mouse & Monitor
 
-# Breakdown
+# Video
 
-A video demo can be found [here](https://youtu.be/GxhtRcsm3iU)
+A video of my work can be found [here](https://www.youtube.com/watch?v=5K5YI9JsWlU)
 
 # Processing
 Information about installing Processing on your Raspberry Pi can be found [here](https://pi.processing.org/download/)
