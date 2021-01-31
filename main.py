@@ -8,7 +8,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 STOCK = "NIO"
-old_price = 0
+g = open("/home/pi/stockpi/stockprice2.txt","r")
+old_price = float(g.read())
+g.close()
 t = 0
 # Setup of the Finnhub
 configuration = finnhub.Configuration(
