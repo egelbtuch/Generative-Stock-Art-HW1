@@ -10,10 +10,10 @@ During the pandemic I used my extra time to learn about the stock market. After 
 
 # Video
 
-A video of my work can be found [here](https://www.youtube.com/watch?v=5K5YI9JsWlU)
+A video of my work can be found [here](https://www.youtube.com/watch?v=5K5YI9JsWlU).
 
 # Processing
-Information about installing Processing on your Raspberry Pi can be found [here](https://pi.processing.org/download/)
+Information about installing Processing on your Raspberry Pi can be found [here](https://pi.processing.org/download/).
 # NeoPixels
 A detailed guide to setting up the wiring and turning on the LEDs [here](https://learn.adafruit.com/neopixels-on-raspberry-pi/raspberry-pi-wiring).
 # Setting up the StockPi/Finnhub API
