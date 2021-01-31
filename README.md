@@ -12,11 +12,11 @@ During the pandemic I used my extra time to learn about the stock market. After 
 
 A video demo can be found [here](https://youtu.be/GxhtRcsm3iU)
 
-## Processing
+# Processing
 Information about installing Processing on your Raspberry Pi can be found [here](https://pi.processing.org/download/)
-## NeoPixels
+# NeoPixels
 A detailed guide to setting up the wiring and turning on the LEDs [here](https://learn.adafruit.com/neopixels-on-raspberry-pi/raspberry-pi-wiring).
-## Setting up the StockPi/Finnhub API
+# Setting up the StockPi/Finnhub API
 A detailed guide can be found [here](https://github.com/pranshuchittora/stockpi).
-## Running on Boot
+# Running on Boot
 In order to run all of my scripts on boot I created a shell file run.sh, that had calls to all three of my scripts in it. Then, I made the shell file executable using `sudo chmod +x run.sh.` so I could add it to a bash file. Finally, after opening the bash file using `sudo nano ~/.bashrc` I added a call at the bottom to the run.sh executable file, so it would run the shell file on boot.
