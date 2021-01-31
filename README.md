@@ -1,4 +1,5 @@
 # Generative-Stock-Art
+# Artistic Vision
 During the pandemic I used my extra time to learn about the stock market. After investing in my first few stocks I found myself constantly checking my Robinhood app to see how my stocks were doing. After months of sweating over the ups and downs of my stocks, I was hoping to create a piece of generative art that would portray the volatility of the market and the volatility of my emotions. When my stocks go down, burning money would rain on my screen, and when my stocks go up, green money would rain down. In a way, my work takes you through the up and down feelings the market is always bringing me. I was also able to display these emotions, through my LEDs, when my stocks go up they would light up into a green smiley face, and when they go down, the LEDs would light up into a red upside down smiley face.
 
 # Materials
