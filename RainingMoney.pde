@@ -51,7 +51,7 @@ void draw()
       background(0);
       textSize(500);
       fill(24, 159, 4);
-      text("NIO", width*2.4/5, height*2.1/5);
+      text(" NIO", width*2.4/5, height*2.1/5);
       textAlign(CENTER, CENTER);
       num = 0;
       lines = loadStrings("/home/pi/stockpi/stockprice.txt");
